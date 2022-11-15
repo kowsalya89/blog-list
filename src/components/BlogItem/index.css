@@ -1,0 +1,11 @@
+/* Write your CSS code here */
+.item-card {
+  padding: 5px;
+  width: 100%;
+}
+.con-paras {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}

@@ -1,0 +1,11 @@
+/* Write your CSS code here */
+/* Write your CSS code here */
+.photo {
+  width: 200px;
+}
+.user-info-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
